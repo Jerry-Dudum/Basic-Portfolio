@@ -105,3 +105,20 @@ nav {
 .content {
     min-height: calc(100vh - 100px);
 }
+
+.message {
+    height: 200px;
+    width: 100%;
+    column-span: 100%;
+}
+
+.data {
+    width: 100%;
+}
+
+#submit {
+    background: #4aaaa5;
+    color: #ffffff;
+    font-size: 36px;
+    padding: 5px;
+}
