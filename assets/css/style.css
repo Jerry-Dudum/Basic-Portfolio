@@ -122,3 +122,34 @@ nav {
     font-size: 36px;
     padding: 5px;
 }
+
+.alignLeft {
+    float: left;
+    clear: left;
+    position: relative;
+    margin-bottom: 20px;
+}
+.alignRight {
+    float: right;
+    margin-right: 100px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.photo {
+    width: 300px;
+    height: 300px;
+
+}
+
+.imgName {
+    text-align: center;
+    color: #ffffff;
+    background: #4aaaa5;
+    padding: 10px;
+    font-size: 30px;
+    width: 300px;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 30px;
+}
