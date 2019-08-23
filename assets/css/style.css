@@ -102,8 +102,11 @@ nav {
     margin-top: 15px;
 }
 
-.container {
+.wrapper {
     min-height: 100%;
-    display: grid;
-    grid-template-rows: auto 1fr auto;
+    margin-bottom: -100px;
+}
+
+.push {
+    height: 50px;
 }
